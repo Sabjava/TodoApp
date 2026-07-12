@@ -24,8 +24,11 @@ The application is built on three main components to ensure modularity and maint
 
 
 
-#### 4. Future Development
+#### 4. Acknowledgements
 
-* **CI/CD Pipeline**: While currently managed locally, future iterations may integrate automated workflows.
-* **Cloud Synchronization**: Potential extension of the `Cache` protocol to include cloud-based storage backends.
+I would like to acknowledge the use of modern AI-powered developer tools throughout the creation of this project. These tools significantly enhanced my learning experience by acting as a collaborative pair-programmer. They provided invaluable assistance in refining Swift syntax, troubleshooting logic errors, and perfecting the code structure and documentation, ultimately enabling a more efficient and rigorous development workflow.
+
+#### 5. Conclusion
+
+This project provided hands-on experience with Swift's `Codable` protocol for JSON handling, as well as experience with protocol-oriented programming. It serves as a solid foundation for more complex CLI tools and demonstrates my ability to troubleshoot environment-specific issues like file pathing and remote repository authentication.
 
